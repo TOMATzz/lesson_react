@@ -1,7 +1,8 @@
 import React, { Component } from "react"
-//import Title from '../../components/title/title'
-//import NewsPosrt from '../../components/news/news'
-
+import Title from '../../components/title/title'
+import NewsPosrt from '../../components/news/news'
+// import Title from '../../components/title/title'
+// import NewsPosrt from '../../components/news/news'
 const BASE_PATH = 'https://hn.algola.com/api/v1';
 const SEARCH_PATH = '/search';
 const SEARCH_PARAM = 'query=';
